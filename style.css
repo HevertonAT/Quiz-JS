@@ -127,12 +127,12 @@ input:checked:before {
 } */
 
 /* declaração */
-#Acertos span {
+#acertos span {
   text-align: center; 
   background-color: #A3E635;
 
   position: fixed;
-  bottom:0;
+  bottom: 0;
   left: 0;
 
   width: 100%;
